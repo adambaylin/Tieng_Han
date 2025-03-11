@@ -53,3 +53,64 @@
 ---
 
 ## 4. 외출을 하다 [외추를 하다] (V) - Đi ra ngoài  (Thường dùng khi rời nhà hoặc văn phòng trong thời gian ngắn)
+**Từ đồng nghĩa:**
+- 나가다 (đi ra ngoài)
+- 외박하다 (ngủ qua đêm bên ngoài)
+
+**Từ trái nghĩa:**  
+- 귀가하다 (trở về nhà)
+- 집에 있다 (ở nhà)
+
+**Dạng lịch sự thân mật:** 외출해요
+
+**Ví dụ:**
+> 저는 잠깐 외출할 거예요.  
+> *Tôi sẽ ra ngoài một lát.*  
+
+---
+
+## 5. 공부하다 [공부하다] (V) học tập (hành động học bài, nghiên cứu)
+**Từ đồng nghĩa:**
+- 학습하다 (học tập, mang tính học thuật cao hơn)
+- 배우다 (học hỏi, tiếp thu kiến thức từ ai đó)
+
+**Từ trái nghĩa:**  
+- 놀다 (chơi, không học)
+- 쉬다 (nghỉ ngơi)
+
+**Dạng lịch sự thân mật:** 공부해요
+
+**Ví dụ:**
+> 저는 도서관에서 공부해요.  
+> *Tôi học bài ở thư viện.  
+
+---
+
+## 6. 계절 [계절] / [게절] (N) mùa (bốn mùa trong năm)
+**Ví dụ:**
+> 한국에는 네 계절이 있어요.  
+> *Ở Hàn Quốc có bốn mùa.  
+
+---
+
+## 7. 봄 [봄] (N) mùa xuân
+**Ví dụ:**
+> 봄에는 날씨가 따뜻해요.  
+> *Vào mùa xuân, thời tiết ấm áp.  
+
+--- 
+
+## 8. 따뜻하다 [따뜨타다] (Adj) ấm áp
+**Từ đồng nghĩa:**
+- 포근하다 (ấm cúng, dễ chịu)
+- 훈훈하다 (ấm áp, mang nghĩa ấm lòng, cảm động)
+
+**Từ trái nghĩa:**  
+- 춥다 (lạnh – dùng cho thời tiết)
+- 차갑다 (lạnh – dùng cho đồ vật, cảm xúc)
+
+**Dạng lịch sự thân mật:** 따뜻해요
+
+**Ví dụ:**
+> 오늘은 날씨가 따뜻해요.  
+> *Hôm nay thời tiết ấm áp.  
