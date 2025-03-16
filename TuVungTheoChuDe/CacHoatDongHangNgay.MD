@@ -1,6 +1,6 @@
 ### 1️⃣ Từ vựng về các hoạt động hằng ngày trong tiếng Hàn
 
-### **일어나다 → [일어나다] (ireonada) – Thức dậy**
+일어나다 → [일어나다] (ireonada) – Thức dậy
 
 씻다 → [씻다] (ssitda) – Rửa mặt/tắm
 
